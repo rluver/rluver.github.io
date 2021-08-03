@@ -1,8 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+title: Personal Hompage
+description: My Personal Hompage for resume, portfolio
+author: Jihwan Min
+github: https://github.com/rluver
+about: 비정형 데이터를 활용한 이상 탐지 및 예측에 관심 갖고 있는 엔지니어 민지환입니다.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -15,14 +15,12 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
+    - icon: fa-notion
+      link: "https://pinnate-orchid-cc0.notion.site/112b5be9c19b4cfea831dc1048523673"
     - icon: fa-twitter
       link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/%EC%A7%80%ED%99%98-%EB%AF%BC-65a384204/"
     - icon: fa-github
       link: "https://github.com/agusmakmun"
 
@@ -35,10 +33,10 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    - text: Portfolio
+      link: "https://pinnate-orchid-cc0.notion.site/Portfolio-06915ea99e3a44bcaa6573e0bef175cb"
 
-url: "https://agusmakmun.github.io"
+url: "https://rluver.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
