@@ -34,7 +34,7 @@ urls:
     - text: My Projects
       url: /projects/
     - text: Portfolio
-      link: "https://pinnate-orchid-cc0.notion.site/Portfolio-06915ea99e3a44bcaa6573e0bef175cb"
+      url: "https://pinnate-orchid-cc0.notion.site/Portfolio-06915ea99e3a44bcaa6573e0bef175cb"
 
 url: "https://rluver.github.io"
 baseurl: ""
