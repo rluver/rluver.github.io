@@ -1,10 +1,10 @@
 title: Personal Hompage
-description: My Personal Hompage for resume, portfolio
-author: Jihwan Min
+description: My Personal Hompage for resume and portfolio
+author: 민지환
 github: https://github.com/rluver
 about: 비정형 데이터를 활용한 이상 탐지 및 예측에 관심 갖고 있는 엔지니어 민지환입니다.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+disqus_shortname: Resume
+google_analytics: G-TYCQHTJ2S4
 
 enableTags: true
 tagarray: []
@@ -15,7 +15,7 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-notion
+    - icon: fa-facebook
       link: "https://pinnate-orchid-cc0.notion.site/112b5be9c19b4cfea831dc1048523673"
     - icon: fa-twitter
       link: "#"
